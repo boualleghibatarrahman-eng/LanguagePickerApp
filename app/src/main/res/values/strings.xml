@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LanguagePickerApp</string>
+
+    <string name="title_choose_language">Choose your favourite language</string>
+    <string name="btn_confirm">Confirm</string>
+    <string name="btn_back">Back</string>
+
+    <string name="lang_java">Java</string>
+    <string name="lang_javascript">JavaScript</string>
+    <string name="lang_dart">Dart</string>
+    <string name="lang_python">Python</string>
+    <string name="lang_csharp">C#</string>
+    <string name="lang_cpp">C++</string>
+    <string name="btn_go_multiple">Try Multiple Choice (CheckBoxes)</string>
+    <string name="title_choose_multiple">Choose your favourite languages (Multiple)</string>
+    <string name="result_multiple_prefix">Your favourite languages are: </string>
+    <string name="error_select_at_least_one">Please select at least one language</string>
+
+    <string name="result_prefix">Your favourite language is </string>
+    <string name="error_no_selection">Please select a language first</string>
+</resources>
